@@ -1,3 +1,3 @@
 #bin/bush
 
-"Hello Linux"
+"Hello World"
